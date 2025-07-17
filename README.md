@@ -4,7 +4,7 @@ the second repository(the first come from fork)
   当前创建 readme-edits 分支
 在编辑器中，编写一些关于您自己的内容；
 常用表情符号
-微笑：:smile: 
+微笑：:smile: 😊
 大笑：:laughing: 
 开心：:smiley: 
 眨眼：:wink: 
